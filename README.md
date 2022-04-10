@@ -1,2 +1,2 @@
-# SQLite3-Kotlin
+# SQLite3 Kotlin
 Flow SQLite in Kotlin
